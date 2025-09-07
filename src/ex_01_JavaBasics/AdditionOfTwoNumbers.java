@@ -1,3 +1,5 @@
+package ex_01_JavaBasics;
+
 public class AdditionOfTwoNumbers {
 
     public static void main(String[] args)
