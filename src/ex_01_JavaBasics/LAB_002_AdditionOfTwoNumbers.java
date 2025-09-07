@@ -1,6 +1,6 @@
 package ex_01_JavaBasics;
 
-public class AdditionOfTwoNumbers {
+public class LAB_002_AdditionOfTwoNumbers {
 
     public static void main(String[] args)
     {
