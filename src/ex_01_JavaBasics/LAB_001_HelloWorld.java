@@ -7,8 +7,8 @@ public class LAB_001_HelloWorld
 
         // Compute and print an arithmetic expression:
         // 10 + (3 ÷ 2) − (1 × 5)
-        int result = 10 + 3 / 2 - 1 * 5;
-        System.out.println(result);
+
+        System.out.println(10 + 3 / 2 - 1 * 5);
 
     }
 
